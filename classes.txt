@@ -1,0 +1,2 @@
+general_waste
+fallen_trees
