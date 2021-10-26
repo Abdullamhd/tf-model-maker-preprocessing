@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20210905_165153.jpg</filename>
+	<path>C:\Users\Abdullah\Desktop\img_label\images\20210905_165153.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uncollected_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1178</xmin>
+			<ymin>1454</ymin>
+			<xmax>2235</xmax>
+			<ymax>2054</ymax>
+		</bndbox>
+	</object>
+</annotation>

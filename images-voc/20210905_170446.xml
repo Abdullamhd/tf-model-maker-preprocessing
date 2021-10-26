@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20210905_170446.jpg</filename>
+	<path>C:\Users\Abdullah\Desktop\img_label\images\20210905_170446.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fallen_trees</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1270</xmin>
+			<ymin>1879</ymin>
+			<xmax>1387</xmax>
+			<ymax>1917</ymax>
+		</bndbox>
+	</object>
+</annotation>
