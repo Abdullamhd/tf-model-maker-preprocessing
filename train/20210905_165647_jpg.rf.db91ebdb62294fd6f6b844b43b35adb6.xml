@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20210905_165647_jpg.rf.db91ebdb62294fd6f6b844b43b35adb6.jpg</filename>
+	<path>20210905_165647_jpg.rf.db91ebdb62294fd6f6b844b43b35adb6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uncollected_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1007</xmin>
+			<xmax>1293</xmax>
+			<ymin>1796</ymin>
+			<ymax>1920</ymax>
+		</bndbox>
+	</object>
+</annotation>

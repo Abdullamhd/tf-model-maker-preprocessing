@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20210905_165705-0-_jpg.rf.2d1e5cf73f789c2743e461ac3fcaee1a.jpg</filename>
+	<path>20210905_165705-0-_jpg.rf.2d1e5cf73f789c2743e461ac3fcaee1a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fallen_trees</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1713</xmin>
+			<xmax>2225</xmax>
+			<ymin>1794</ymin>
+			<ymax>1932</ymax>
+		</bndbox>
+	</object>
+</annotation>
